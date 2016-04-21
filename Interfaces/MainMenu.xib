@@ -14,8 +14,8 @@
         <customObject id="-3" userLabel="Application" customClass="NSObject"/>
         <menu title="MainMenu" systemMenu="main" id="29" userLabel="MainMenu">
             <items>
-                <menuItem title="iTerm2" id="56">
-                    <menu key="submenu" title="iTerm2" systemMenu="apple" id="57">
+                <menuItem title="iTerm2X" id="56">
+                    <menu key="submenu" title="iTerm2X" systemMenu="apple" id="57">
                         <items>
                             <menuItem title="About iTerm2" id="233">
                                 <connections>
